@@ -1,12 +1,6 @@
-### You're welcome to my Fortress✨<img src="https://www.pngitem.com/pimgs/m/300-3007873_transparent-castle-png-picture-castle-clipart-transparent-background.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Transparent Castle Png Picture - Castle Clipart Transparent Background, Png  Download , Transparent Png Image - PNGitem" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;" data-canonical-src=" https://user-images.githubusercontent.com/91345308/197986208-5dba0509-9217-45e9-824e-2eef7d83c9b2.png">
+### You're welcome to my Fortress✨
 
 There is not really much to see here..... yet.
-<!-- ![300-3007873_transparent-castle-png-picture-castle-clipart-transparent-background](https://user-images.githubusercontent.com/91345308/197986208-5dba0509-9217-45e9-824e-2eef7d83c9b2.png) 
-
-<img src="https://www.pngitem.com/pimgs/m/300-3007873_transparent-castle-png-picture-castle-clipart-transparent-background.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Transparent Castle Png Picture - Castle Clipart Transparent Background, Png  Download , Transparent Png Image - PNGitem" data-noaft="1" style="width: 40px; height: 40px; margin: 0px;">
--->
-
-
 <!--
 **AngryDuchess/AngryDuchess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
