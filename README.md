@@ -1,6 +1,7 @@
-### You're welcome to my Fortress✨![](https://user-images.githubusercontent.com/91345308/197974276-9c8c438a-2323-4c43-b969-283e4f45e45f.png =20x20)
+### You're welcome to my Fortress✨
 There is not really much to see here..... yet.
-<img src="[https://camo.githubusercontent.com/...](https://www.citypng.com/public/uploads/preview/-21601923756gzwpsbeqiv.png)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/91345308/197974276-9c8c438a-2323-4c43-b969-283e4f45e45f.png)" width="20" height="20" />
+
+<img src="https://www.citypng.com/public/uploads/preview/-21601923756gzwpsbeqiv.png" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb KAlRDb" alt="Old Halloween Horror Castle On Mountain PNG | Citypng" data-noaft="1" style="width: 20px; height: 20px; margin: 0px;" data-canonical-src=" https://user-images.githubusercontent.com/91345308/197974276-9c8c438a-2323-4c43-b969-283e4f45e45f.png">
 
 
 <!--
