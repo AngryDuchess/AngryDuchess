@@ -1,5 +1,5 @@
 ### You're welcome to my Fortress.
-There is not really much to see here..... ### yet.
+There is not really much to see here..... yet.
 
 <!--
 **AngryDuchess/AngryDuchess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
