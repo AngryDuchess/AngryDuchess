@@ -2,7 +2,9 @@
 
 ![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/91345308/197988769-caf3150e-2600-42c3-a35c-3a140697b698.gif)
 
-There is not really much to see here <iframe src="https://giphy.com/embed/Ri98Ht4Q9hczOeHC1E" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/CartoonNetworkLatam-cartoon-network-wbb-escandalosos-Ri98Ht4Q9hczOeHC1E">via GIPHY</a></p> ..... yet.
+There is not really much to see here <div id="header" align="center">
+  <img src="https://media.giphy.com/media/Ri98Ht4Q9hczOeHC1E/giphy.gif" width="40"/>
+</div>..... yet.
 <!--
 **AngryDuchess/AngryDuchess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,3 +21,4 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngryDuchess&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
