@@ -1,8 +1,8 @@
-<h1> You're welcome to my Fortress <img src="https://media.giphy.com/media/cPBjiZmxXkESLINLCI/giphy.gif" width="30"/>✨</h1>
+# You're welcome to my Fortress <img src="https://media.giphy.com/media/cPBjiZmxXkESLINLCI/giphy.gif" width="30"/>✨</h1>
 
 ![0a10af70-6cbf-46df-9071-0ff586a3b1d6](https://user-images.githubusercontent.com/91345308/197988769-caf3150e-2600-42c3-a35c-3a140697b698.gif)
 
-<h4> There is not really much to see here <img src="https://media.giphy.com/media/9YXqWG4p7xfBt6HSE7/giphy.gif" width="30"/> ..... yet.</h4>
+There is not really much to see here <img src="https://media.giphy.com/media/9YXqWG4p7xfBt6HSE7/giphy.gif" width="30"/> ..... yet.
 <img src="https://komarev.com/ghpvc/?username=AngryDuchess&style=flat-square&color=blue" alt=""/>
 <!--
 **AngryDuchess/AngryDuchess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
