@@ -34,7 +34,6 @@ I love to create usable design interfaces hence, my love for frontend developmen
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AngryDuchess&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngryDuchess&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryDuchess&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Snake dark](github-snake-dark.svg#username=AngryDuchess&gh-dark-mode-only)
 
 <div id="badges">
    <a href="https://www.linkedin.com/in/hamidamahama/">
