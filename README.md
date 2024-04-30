@@ -15,6 +15,14 @@ I love to create usable design interfaces hence, my love for frontend developmen
 <div id='count'>
 <img src="https://komarev.com/ghpvc/?username=AngryDuchess&style=flat-square&color=blue" alt=""/>
 </div>
+<div id="badges">
+   <a href="https://www.linkedin.com/in/hamidamahama/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a> 
+   <a href="https://twitter.com/hamida_mahama">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ---
 
@@ -36,11 +44,3 @@ I love to create usable design interfaces hence, my love for frontend developmen
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngryDuchess&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<div id="badges">
-   <a href="https://www.linkedin.com/in/hamidamahama/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-   </a> 
-   <a href="https://twitter.com/hamida_mahama">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
