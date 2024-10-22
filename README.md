@@ -5,8 +5,8 @@
 
 ## :woman_technologist: About Me
 
-There is not really much to see here <img src="https://media.giphy.com/media/9YXqWG4p7xfBt6HSE7/giphy.gif" width="30"/> ..... yet.<br>
-I love to create usable design interfaces hence, my love for frontend development and user experience
+Hey there! <img src="https://media.giphy.com/media/9YXqWG4p7xfBt6HSE7/giphy.gif" width="30"/> <br>
+I love to design and build them out with code.
 - 🌱 I’m still learning. I love seeing growth. I think that's what makes being human exciting.
 - 😄 I spend my free time researching tech-related topics online (or watch bigbang theory).
 - ⚡ Favorite quote: “You keep on learning and learning, and pretty soon you learn something no one has learned before.”- Richard Feynman
